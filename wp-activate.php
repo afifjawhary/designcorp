@@ -5,7 +5,7 @@
  *
  * @package WordPress
  */
-
+/*Wordpress*/
 define( 'WP_INSTALLING', true );
 
 /** Sets up the WordPress Environment. */
